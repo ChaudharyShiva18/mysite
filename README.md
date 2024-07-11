@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning AI,ML
 - 💞️ I’m looking to collaborate on AI Projects
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: shivachaudhary556@gmail.com
+- 📫 How to reach me: shivachaudhary4794@gmail.com
 - 😄 Pronouns: Programmer
 
 **Languages and Tools:** 
